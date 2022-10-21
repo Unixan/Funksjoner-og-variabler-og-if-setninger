@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+}
+
+.mainWindow {
+    display: flex;
+    justify-content: center;
+    font-size: 400%;
+    user-select: none;
+    margin: 100px;
+    
+}
+.number{
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
